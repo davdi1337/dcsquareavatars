@@ -8,3 +8,6 @@ How to apply this theme? (BetterDiscord)
 - Go to Custom CSS
 - Simply copy and paste this code: __@import url("https://davdi1337.github.io/dcsquareavatars/theme.css");__
 - Click Update, Save and you done
+
+
+![Screenshot](https://i.imgur.com/ZnGn3yj.jpg)
