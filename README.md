@@ -12,10 +12,10 @@ How to apply this theme? (BetterDiscord)
 - Your theme was applied.
 
 # __Preview__
-#__V1(Without status)__
+__V1(Without status)__
 
 ![Screenshot](https://i.imgur.com/ZnGn3yj.jpg)
 
-#__V2(With status)__
+__V2(With status)__
 
 ![Screenshot](https://i.imgur.com/0HD2b0f.png)
