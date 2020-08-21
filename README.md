@@ -6,7 +6,8 @@ Contact me on discord if you have any issue: __.davdi#0679__
 How to apply this theme? (BetterDiscord)
 - Go to Discord settings
 - Go to Custom CSS
-- Simply copy and paste this code: __@import url("https://davdi1337.github.io/dcsquareavatars/theme.css");__
+- Simply copy and paste this code(v1): __@import url("https://davdi1337.github.io/dcsquareavatars/theme.css");__
+- Simply copy and paste this code(v2): __@import url("https://davdi1337.github.io/dcsquareavatars/v2/theme.css");__
 - Click Update and Save
 - Your theme was applied.
 
