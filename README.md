@@ -1,4 +1,5 @@
 # __Discord Square Avatars__
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/davdiowo)
 #### This is theme makes the avatars is square when you click to someone.
 Contact me on discord if you have any issue: __.davdi#0679__
 
